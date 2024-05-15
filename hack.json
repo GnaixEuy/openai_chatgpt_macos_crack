@@ -1,0 +1,42 @@
+{
+    "statsigMetadata": {
+        "stableID": "F6D38F09-0ADA-467B-85D1-012515A74429",
+        "locale": "zh_CN",
+        "systemName": "macOS",
+        "systemVersion": "14.5.0",
+        "deviceOS": "macOS",
+        "language": "zh-Hans-CN",
+        "appIdentifier": "com.openai.chat",
+        "deviceModel": "arm64",
+        "sdkType": "ios-client",
+        "appVersion": "1.2024.131",
+        "sdkVersion": "1.40.1",
+        "sessionID": "EE6066B8-8E1F-47AC-B01B-0CFEA77FFD96"
+    },
+    "hash": "djb2",
+    "previousDerivedFields": {
+        "ip": "148.59.74.213",
+        "country": "US",
+        "user_agent": "ChatGPT/1715715817 CFNetwork/1496.0.7 Darwin/23.5.0"
+    },
+    "sinceTime": 1715745546329,
+    "user": {
+        "statsigEnvironment": {
+            "tier": "production"
+        },
+        "userID": "user-bJTtI9UeN38dht7fxc3R8CXD",
+        "privateAttributes": {
+            "email": "suyuexiang412@gmail.com"
+        },
+        "appVersion": "1.2024.131",
+        "custom": {
+            "has_paid_plan": false,
+            "apple_platform": "macOS",
+            "apple_os_version": "14.5.0",
+            "client_type": "ios",
+            "plan_type": "free",
+            "workspace_id": "facfb951-5a53-45e2-b2a4-211ac5fde784",
+            "app_environment": "app_store"
+        }
+    }
+}
